@@ -1,6 +1,6 @@
 # Welcome!
 
-## My name is Zyanya Rios. I'm a 3rd Year Computer Engineering Student @ University of California, San Diego.
+## My name is Zyanya Isabella Rios. I'm a 3rd Year Computer Engineering Student @ University of California, San Diego.
 
 I aim to combine my background in cybersecurity and education to further improve the safety and awareness of students and my community. Feel free to click through my profile to learn more about me!
 
