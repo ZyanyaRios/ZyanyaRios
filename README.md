@@ -47,7 +47,7 @@ I aim to combine my background in cybersecurity and education to further improve
 #### [SHPE Scholarship Recepient](https://www.linkedin.com/feed/update/urn:li:activity:7208568330452942848/) for 42nd Annual SHPE Region 2 Banquet (2024)
 * San Diego Professional SHPE Chapter Scholarship presented from Qualcomm for outstanding academics and support of SHPE and the community
 #### TÜV SÜD Americas Women's Network Scholarship Receipient (2023)
-* Scholarschip for outstanding academic performance in the STEM field
+* Scholarship for outstanding academic performance in the STEM field
 #### National Cyber Security Award from CyberStart (2023) 
 * Awarded to the highest-scoring eligible CyberStart players from CyberStart America and Cyber FastTrack 
 * Winners of this award ranked in the top 7% of players nationwide, scholars awarded a training scholarship to cover the SANS Foundations course
