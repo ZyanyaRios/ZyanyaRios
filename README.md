@@ -14,7 +14,7 @@ I aim to combine my background in cybersecurity and education to further improve
 
 ### Research: 
 
-##### [Fears and Confidence amongst Incarcerated Adult CS1 Students](https://dl.acm.org/doi/pdf/10.1145/3641554.3701825) - Awarded Best Student Research Paper 2025
+##### [Fears and Confidence amongst Incarcerated Adult CS1 Students](https://dl.acm.org/doi/pdf/10.1145/3641554.3701825)
 * Co-authored a SIGCSE 2025-accepted paper on computer science education in prison systems, highlighting student confidence and centering justice-impacted voices
 ##### [How Students Value Technology vs. Paper-Based Resources inCS1 in Prison](https://dl.acm.org/doi/epdf/10.1145/3704637.3734765) - RESPECT 2025
 * Co-authored paper for RESPECT Conference on computer science education in prison systems reagrding how students are learning with digital vs. paper based resources to further understand potential barriers for STEM education in prison programs
