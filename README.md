@@ -14,12 +14,12 @@ I aim to combine my background in cybersecurity and education to further improve
 
 ### Research: 
 
-##### [Fears and Confidence amongst Incarcerated Adult CS1 Students](https://dl.acm.org/doi/pdf/10.1145/3641554.3701825)
+#### [Fears and Confidence amongst Incarcerated Adult CS1 Students](https://dl.acm.org/doi/pdf/10.1145/3641554.3701825)
 * Co-authored a SIGCSE 2025-accepted paper on computer science education in prison systems, highlighting student confidence and centering justice-impacted voices
-##### [How Students Value Technology vs. Paper-Based Resources inCS1 in Prison](https://dl.acm.org/doi/epdf/10.1145/3704637.3734765) - RESPECT 2025
+#### [How Students Value Technology vs. Paper-Based Resources inCS1 in Prison](https://dl.acm.org/doi/epdf/10.1145/3704637.3734765) - RESPECT 2025
 * Co-authored paper for RESPECT Conference on computer science education in prison systems reagrding how students are learning with digital vs. paper based resources to further understand potential barriers for STEM education in prison programs
 
-##### Upcoming Research with [Audria Montalvo](https://sites.google.com/ucsd.edu/cs-ed-research-group/people) for Spring 2026 - Student Engagement using Study Groups
+#### Upcoming Research with [Audria Montalvo](https://sites.google.com/ucsd.edu/cs-ed-research-group/people) for Spring 2026 - Student Engagement using Study Groups
 
 ### Working Experience: 
 
@@ -55,6 +55,14 @@ I aim to combine my background in cybersecurity and education to further improve
 * Cybersecurity certification validating the essential knowledge necessary to demonstrate work-ready cybersecurity skills
 * Skills Include: Incident handling, cybersecurity auditing and analysis, network security concepts, and vulnerability assessment
 
+### Leadership Experience
+#### [Ideathon Chair](https://allisondominguezf.notion.site/Technical-Committee-Portfolio-3000b4ab6d6b805fb0c5e11ae5bbb555) | UC San Diego Society of Hispanic Professional Engineers, La Jolla, CA  Jun 2025 – Present
+* Led planning and execution of an Ideathon event series, coordinating logistics, funding applications, and programming for events with 15+ attendees per session
+* Organized and facilitated 12+ technical workshops covering circuits, Python programming, and hands-on engineering fundamentals
+
+#### Vice President of Programming | UC San Diego ColorStack, La Jolla, CA  Jul 2024 - Present
+* Co-founded and launched the first chapter of ColorStack at UC San Diego, establishing a growing community of Latino and Black engineers with over 43 active members
+* Hosted 5 club events such as general body meeting, career panels, and resume workshops with Google, Expedia, INUIT, Netflix, and Pinterest to help members get started on their technical career journey
 
 
 ### Fun Facts About Me Before You Leave!
